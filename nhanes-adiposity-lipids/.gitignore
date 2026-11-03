@@ -1,0 +1,4 @@
+data/*.XPT
+data/*.csv
+__pycache__/
+*.aux/*.log
