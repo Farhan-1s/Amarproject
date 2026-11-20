@@ -1,0 +1,47 @@
+Sample,Variable,N,Valid,Missing,Missing_percent
+Examined adults before exclusions,SEQN,6064,6064,0,0
+Examined adults before exclusions,RIDAGEYR,6064,6064,0,0
+Examined adults before exclusions,RIAGENDR,6064,6064,0,0
+Examined adults before exclusions,RIDEXPRG,6064,1134,4930,81.2994723
+Examined adults before exclusions,INDFMPIR,6064,5272,792,13.06068602
+Examined adults before exclusions,WTINT2YR,6064,6064,0,0
+Examined adults before exclusions,WTMEC2YR,6064,6064,0,0
+Examined adults before exclusions,SDMVPSU,6064,6064,0,0
+Examined adults before exclusions,SDMVSTRA,6064,6064,0,0
+Examined adults before exclusions,BMXBMI,6064,5970,94,1.550131926
+Examined adults before exclusions,BMXWAIST,6064,5762,302,4.980211082
+Examined adults before exclusions,BMXHT,6064,5997,67,1.104881266
+Examined adults before exclusions,LBXTC,6064,5498,566,9.333773087
+Examined adults before exclusions,WTPH2YR,6064,6064,0,0
+Examined adults before exclusions,LBDHDD,6064,5498,566,9.333773087
+Examined adults before exclusions,BPQ080,6064,6029,35,0.577176781
+Examined adults before exclusions,BPQ101D,6064,6038,26,0.4287598945
+Examined adults before exclusions,SMQ020,6064,6057,7,0.1154353562
+Examined adults before exclusions,SMQ040,6064,2509,3555,58.62467018
+Final analytical sample,SEQN,5205,5205,0,0
+Final analytical sample,RIDAGEYR,5205,5205,0,0
+Final analytical sample,RIAGENDR,5205,5205,0,0
+Final analytical sample,RIDEXPRG,5205,930,4275,82.13256484
+Final analytical sample,INDFMPIR,5205,4548,657,12.62247839
+Final analytical sample,WTINT2YR,5205,5205,0,0
+Final analytical sample,WTMEC2YR,5205,5205,0,0
+Final analytical sample,SDMVPSU,5205,5205,0,0
+Final analytical sample,SDMVSTRA,5205,5205,0,0
+Final analytical sample,BMXBMI,5205,5205,0,0
+Final analytical sample,BMXWAIST,5205,5205,0,0
+Final analytical sample,BMXHT,5205,5205,0,0
+Final analytical sample,LBXTC,5205,5205,0,0
+Final analytical sample,WTPH2YR,5205,5205,0,0
+Final analytical sample,LBDHDD,5205,5205,0,0
+Final analytical sample,BPQ080,5205,5173,32,0.6147934678
+Final analytical sample,BPQ101D,5205,5185,20,0.3842459174
+Final analytical sample,SMQ020,5205,5198,7,0.1344860711
+Final analytical sample,SMQ040,5205,2132,3073,59.03938521
+Final analytical sample,WHtR,5205,5205,0,0
+Final analytical sample,Non_HDL_C,5205,5205,0,0
+Final analytical sample,BMI_Category,5205,5205,0,0
+Final analytical sample,High_WHtR,5205,5205,0,0
+Final analytical sample,High_Lipid,5205,5205,0,0
+Final analytical sample,Sex,5205,5205,0,0
+Final analytical sample,Age_Group,5205,5205,0,0
+Final analytical sample,Smoking_Status,5205,5198,7,0.1344860711

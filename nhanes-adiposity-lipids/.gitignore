@@ -1,4 +1,10 @@
+data/*.xpt
 data/*.XPT
 data/*.csv
+!data/snapshot_sha256.csv
+data/retrieval.json
 __pycache__/
-*.aux/*.log
+*.pyc
+.venv/
+*.aux
+*.log

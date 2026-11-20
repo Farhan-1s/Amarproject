@@ -1,0 +1,16 @@
+Variable,Category,Count,Percent
+Sex,Female,2827,54.31316042
+Sex,Male,2378,45.68683958
+BMI_Category,Obese,2120,40.73006724
+BMI_Category,Overweight,1701,32.68011527
+BMI_Category,Normal,1325,25.45629203
+BMI_Category,Underweight,59,1.133525456
+High_WHtR,1,4467,85.82132565
+High_WHtR,0,738,14.17867435
+Age_Group,60+,2378,45.68683958
+Age_Group,40-59,1528,29.35638809
+Age_Group,20-39,1299,24.95677233
+Smoking_Status,Never,3066,58.90489914
+Smoking_Status,Former,1384,26.58981748
+Smoking_Status,Current,748,14.37079731
+Smoking_Status,Unknown,7,0.1344860711

@@ -1,0 +1,23 @@
+Variable,Action,Count
+DEMO_L,Tiny floating values normalized to zero,3362
+BMX_L,Tiny floating values normalized to zero,0
+TCHOL_L,Tiny floating values normalized to zero,752
+HDL_L,Tiny floating values normalized to zero,0
+BPQ_L,Tiny floating values normalized to zero,0
+SMQ_L,Tiny floating values normalized to zero,0
+BPQ080,Refused or unknown codes set to missing,54
+BPQ080,Unexpected categories set to missing,0
+BPQ101D,Refused or unknown codes set to missing,33
+BPQ101D,Unexpected categories set to missing,0
+SMQ020,Refused or unknown codes set to missing,14
+SMQ020,Unexpected categories set to missing,0
+SMQ040,Refused or unknown codes set to missing,0
+SMQ040,Unexpected categories set to missing,0
+RIDAGEYR,Impossible range set to missing,0
+INDFMPIR,Impossible range set to missing,0
+BMXBMI,Impossible range set to missing,0
+BMXWAIST,Impossible range set to missing,0
+BMXHT,Impossible range set to missing,0
+LBXTC,Impossible range set to missing,0
+LBDHDD,Impossible range set to missing,0
+Lipids,Total cholesterol below HDL set to missing,0
